@@ -40,4 +40,4 @@ I think the biggest thing I realized was how sensitive it hyperparameter/paramet
 
 ### Choice of function:
 
-The choice of function highly depends on the pattern of the plotted data. It's self explanatory that curved data may require some exponential or quadratic, but the difference in performance was still striking and I think it was cool to create the visualization that compared the quadratic to the linear function. It really showed how data-dependent the model is.
+The choice of function highly depends on the pattern of the plotted data. It's self explanatory that curved data may require some exponential or quadratic, but the difference in performance was still striking and I think it was cool to create the visualization that compared the quadratic to the linear function. It really showed how data-dependent the choice of model is.
