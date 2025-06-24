@@ -8,7 +8,7 @@
 - all of the charts should open up in your browser (interactively!)
 
 ### for uv:
-- `uv install` or `uv add numpy plotly`
+- `uv pip install requirements.txt` or `uv add numpy plotly`
 - `uv run project.py`
 - all of the charts should open up in your browser (interactively!)
 
