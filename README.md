@@ -16,7 +16,6 @@
 ## Report:
 
 ### Initial design derivations:
-- I'm currently writing this on the plane haha! I initially planned to attempt to write a crosscoder as an experiment, but I got on the plane and realized I didn't have service (but luckily, I had the default class project downloaded and some plotly docs saved on my computer). I'll probably have my first attempt at a crosscoder done by Wednesday, June 25th (I'll send you the repo along with some papers we can try to read by Friday tomorrow).
 - I used plotly (it's used a lot in mechanistic interpretability and I thought it would be good practice to get used to it here)
 - I opted to rewrite functions rather than modify so I could just run the entire file without having to hardcode None cases. I think I still was able to achieve what the project was getting at, since I did iterate on the functions I rewrote.
 
